@@ -1,0 +1,9 @@
+.DW 0X0008,0X0000;(0X00000008)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\01kaideng_wav.a18
+.DW 0X04F6,0X0000;(0X000004F6)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\02guandeng_wav.a18
+.DW 0X0772,0X0000;(0X00000772)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\03baifzs_wav.a18
+.DW 0X0C0A,0X0000;(0X00000C0A)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\04baifzws_wav.a18
+.DW 0X11B0,0X0000;(0X000011B0)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\05baifzb_wav.a18
+.DW 0X15B2,0X0000;(0X000015B2)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\06shifz_wav.a18
+.DW 0X191E,0X0000;(0X0000191E)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\07sanshifz_wav.a18
+.DW 0X1D7A,0X0000;(0X00001D7A)		C:\Generalplus\GPCM1Fx_DFP\0.9.12\SampleCode\CSP32chn_DVR1801\Resource\A1800\08dingsqx_wav.a18

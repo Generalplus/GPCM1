@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_project_file>
+	<FileVersion major="1" minor="7" />
+	<Project>
+		<Option title="RTVC3" />
+		<Option pch_mode="2" />
+		<Option compiler="armelfgcc" />
+		<Option virtualFolders="Header\;Others\;Peripheral\;Library\;Resource\;Device\;Driver\;User\;Application\;" />
+		<Option DownloadLog="-1" />
+		<Option ProjectVersion="V1.0.2.1" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RTVC3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="armelfgcc" />
+				<Option openMapFileAfterBuild="1" />
+				<Compiler>
+					<Add option="-O0" />
+					<Add option="-g" />
+					<Add option="-DDEBUG=1" />
+					<Add option="-mcpu=cortex-m0" />
+					<Add option="-mthumb" />
+					<Add option="-mlong-calls" />
+					<Add directory="../../../Library/CMSIS/Include" />
+					<Add directory="../../../Library/Device/GPCM1F064A/Include" />
+					<Add directory="../../../Library/StdDriver/Include" />
+					<Add directory="../Inc" />
+					<Add directory="../Resource" />
+					<Add directory="./RTE" />
+					<Add directory="../../../Library/Application/Include" />
+				</Compiler>
+				<Linker>
+					<Add option="-Wl,-Map" />
+					<Add option="-Wl,${TARGET_OUTPUT_FILE}.map" />
+					<Add option="-Wl,--gc-sections" />
+					<Add option="-n" />
+					<Add option="-Wl,-cref" />
+					<Add option="-Wl,--relax" />
+					<Add option="-Wl,--no-wchar-size-warning" />
+					<Add option="-specs=nano.specs" />
+					<Add option="-mcpu=cortex-m0" />
+					<Add option="-mthumb" />
+					<Add option="-TSetup/GPCM1F064A_0001.ld" />
+				</Linker>
+				<PostOutput>
+					<ConvertedOutput PostOutputCreate="1" />
+					<ConvertedOutput PostOutputType="BIN" />
+					<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+				</PostOutput>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RTVC3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="armelfgcc" />
+				<Compiler>
+					<Add option="-mcpu=cortex-m0" />
+					<Add option="-mthumb" />
+					<Add option="-O1" />
+					<Add directory="Inc" />
+				</Compiler>
+				<Linker>
+					<Add option="-Wl,-Map" />
+					<Add option="-Wl,${TARGET_OUTPUT_FILE}.map" />
+					<Add option="-Wl,--gc-sections" />
+					<Add option="-n" />
+					<Add option="-Wl,-cref" />
+					<Add option="-specs=nano.specs" />
+					<Add option="-mcpu=cortex-m0" />
+					<Add option="-Wl,--relax" />
+					<Add option="-mthumb" />
+					<Add option="-TSetup/GPCM1F064A_0001.ld" />
+				</Linker>
+				<PostOutput>
+					<ConvertedOutput PostOutputCreate="0" />
+					<ConvertedOutput PostOutputType="HEX" />
+					<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+				</PostOutput>
+			</Target>
+		</Build>
+		<PostOutput>
+			<ConvertedOutput PostOutputCreate="0" />
+			<ConvertedOutput PostOutputType="HEX" />
+			<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+		</PostOutput>
+		<Unit filename="../../../Library/Application/Source/APP_SwVolumeControl.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Application/" />
+		</Unit>
+		<Unit filename="../../../Library/Lib/RTVC3_8K_V1.0.4.lib">
+			<Option virtualFolder="Library/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/DAC_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/DMA_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/DSADC_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/GPIO_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/I2C_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/MAC_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/SARADC_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/SPIFC_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Driver/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/SPI_Flash_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Driver/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/SYS_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/TimeBase_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/Timer_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/Uart_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/WDT_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../../../Library/StdDriver/Source/eFlash_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Peripheral/" />
+		</Unit>
+		<Unit filename="../Src/KeyScan.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="User/" />
+		</Unit>
+		<Unit filename="../Src/SACM_VC3_User.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="User/" />
+		</Unit>
+		<Unit filename="../main.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="User/" />
+		</Unit>
+		<Unit filename="Doc/README.txt">
+			<Option virtualFolder="Others/" />
+		</Unit>
+		<Unit filename="RTE/Configuration_Wizard_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Device/" />
+		</Unit>
+		<Unit filename="RTE/system_GPCM1Fx.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Device/" />
+		</Unit>
+		<Unit filename="Setup/GPCM1F064A_0001.ld">
+			<Option virtualFolder="Others/" />
+		</Unit>
+		<Unit filename="Setup/startup.S">
+			<Option virtualFolder="Device/" />
+		</Unit>
+		<Extensions>
+			<projectwizard TargetDevice="GPCM1F064A_0001" isCreated="true" />
+			<code_completion />
+			<debugger>
+				<remote_debugging>
+					<options conn_type="0" ip_address="localhost" ip_port="2331" clock_rate="1000" target_device="GPCM1F064A_0001" remote_server="Build in GDB Server" Break_at_Main="0" Break_at_Main_Symbol="main" En_BeforeDownload_Script="0" En_AfterReset_Script="0" En_ReplaceBody_Script="0" En_StackOverflowDetection="1" En_Semihosting="0" />
+				</remote_debugging>
+				<remote_debugging target="Debug">
+					<options conn_type="0" serial_baud="115200" ip_address="localhost" ip_port="2331" clock_rate="1000" target_device="GPCM1F064A_0001" remote_server="Build in GDB Server" Break_at_Main="1" Break_at_Main_Symbol="main" additional_cmds="monitor reset&#x0A;load" En_BeforeDownload_Script="0" En_AfterReset_Script="0" En_ReplaceBody_Script="0" En_StackOverflowDetection="0" En_Semihosting="0" />
+				</remote_debugging>
+				<remote_debugging target="Release">
+					<options conn_type="0" serial_baud="115200" ip_address="localhost" ip_port="2331" clock_rate="1000" target_device="GPCM1F064A_0001" remote_server="Build in GDB Server" Break_at_Main="1" Break_at_Main_Symbol="main" additional_cmds="monitor reset&#x0A;load" En_BeforeDownload_Script="0" En_AfterReset_Script="0" En_ReplaceBody_Script="0" En_StackOverflowDetection="1" En_Semihosting="0" />
+				</remote_debugging>
+			</debugger>
+		</Extensions>
+	</Project>
+</emIDE_project_file>

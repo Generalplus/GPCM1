@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+	</ExpandedNodes>
+	<File name="Setup\PCM_VC3_8K.ld" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7829" topLine="225" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_VC3_User.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14104" topLine="386" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\SYS_GPCM1Fx.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6303" topLine="196" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DMA_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\I2C_GPCM1Fx.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3782" topLine="138" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_DVRPCM_User.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12298" topLine="440" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DSADC_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="962" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6287" topLine="152" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

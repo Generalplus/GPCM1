@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/ExampleCode/UART/G+IDE/RTE" />
+		<Node path="/Sources/ExampleCode/UART/G+IDE/Setup" />
+		<Node path="/Sources/ExampleCode/UART/G+IDE" />
+		<Node path="/Sources/ExampleCode/UART" />
+		<Node path="/Sources/ExampleCode" />
+		<Node path="/Sources" />
+		<Node path="/Others/ExampleCode/UART/G+IDE/Doc" />
+		<Node path="/Others/ExampleCode/UART/G+IDE/Setup" />
+		<Node path="/Others/ExampleCode/UART/G+IDE" />
+		<Node path="/Others/ExampleCode/UART" />
+		<Node path="/Others/ExampleCode" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="..\..\..\Library\StdDriver\Source\Uart_GPCM1Fx.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2693" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="Setup\GPCM1F064A_0001.ld" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6565" topLine="198" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1773" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\WDT_GPCM1Fx.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1512" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="RTE\system_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1446" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2333" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4320" topLine="106" />
+		</Cursor>
+	</File>
+	<File name="..\Retarget_G+IDE.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3232" topLine="72" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/ExampleCode/UART/G+IDE/RTE" />
+	<Expand folder="/Sources/ExampleCode/UART/G+IDE/Setup" />
+	<Expand folder="/Sources/ExampleCode/UART/G+IDE" />
+	<Expand folder="/Sources/ExampleCode/UART" />
+	<Expand folder="/Sources/ExampleCode" />
+	<Expand folder="/Sources" />
+	<Expand folder="/Others/ExampleCode/UART/G+IDE/Doc" />
+	<Expand folder="/Others/ExampleCode/UART/G+IDE/Setup" />
+	<Expand folder="/Others/ExampleCode/UART/G+IDE" />
+	<Expand folder="/Others/ExampleCode/UART" />
+	<Expand folder="/Others/ExampleCode" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

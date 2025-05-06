@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/Library" />
+		<Node path="/Sources/SampleCode/A34Pro_2CH_WithEvent/Scr" />
+		<Node path="/Sources/SampleCode/A34Pro_2CH_WithEvent" />
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+	</ExpandedNodes>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1754" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7883" topLine="338" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4217" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="Setup\Target_1.ld" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3721" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="..\Scr\SACM_A3400Pro_User.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6641" topLine="276" />
+		</Cursor>
+	</File>
+	<File name="..\Scr\SACM_A3400Pro_CH2_User.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1865" topLine="243" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/Library" />
+	<Expand folder="/Sources/SampleCode/A34Pro_2CH_WithEvent/Scr" />
+	<Expand folder="/Sources/SampleCode/A34Pro_2CH_WithEvent" />
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

@@ -1,0 +1,12 @@
+.DW 0X000B,0X0000;(0X0000000B)		Merge file number
+.DW 0X0100,0X0000;(0X00000100)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\01b_wav.pcmgpce
+.DW 0XFE44,0X0000;(0X0000FE44)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\01c_wav.pcmgpce
+.DW 0XC75E,0X0001;(0X0001C75E)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\13_wav.pcmgpce
+.DW 0X1C36,0X0004;(0X00041C36)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\eng4b_wav.pcmgpce
+.DW 0X302A,0X0005;(0X0005302A)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\eng5b_wav.pcmgpce
+.DW 0X69B4,0X0006;(0X000669B4)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\eng5_wav.pcmgpce
+.DW 0X61E2,0X0008;(0X000861E2)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\eng7_wav.pcmgpce
+.DW 0XAC06,0X0009;(0X0009AC06)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\englishstory1_wav.pcmgpce
+.DW 0X938A,0X000B;(0X000B938A)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\englishstorys_wav.pcmgpce
+.DW 0X24E0,0X0010;(0X001024E0)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\track03b_wav.pcmgpce
+.DW 0X7664,0X0011;(0X00117664)		D:\GP Product\GPCM1F\Code\PCM_VC3_8K_20210601\PCM_VC3_8K\Ver 0_4\SampleCode\DVRPCM\Resource\Song\track18a_wav.pcmgpce

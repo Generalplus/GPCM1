@@ -1,0 +1,801 @@
+# depslib dependency file v1.0
+1590031264 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\Application\Source\APP_SwVolumeControl.c
+	"APP_SwVolumeControl.h"
+
+1590031264 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\Application\Include\APP_SwVolumeControl.h
+	<stdint.h>
+
+1621503356 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1627627424 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\CMSIS\Include\cmsis_version.h
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\CMSIS\Include\cmsis_armcc.h
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\CMSIS\Include\cmsis_gcc.h
+
+1621503356 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1618194603 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1621503575 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1607326649 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100472 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1627627138 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1604450983 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1607326489 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1599100472 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1621504067 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100466 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1602049018 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1618222276 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1621503435 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100472 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1602469088 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1610091664 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1607571679 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1621504207 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1602049018 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1635327306 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\main.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"KeyScan.h"
+
+1631695412 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\SACM_A3400Pro_User.h
+	"SACM_A3400Pro_API.h"
+
+1631695418 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\SACM_A3400Pro_API.h
+
+1631609768 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\SACM_A3400Pro_CH2_User.h
+	"SACM_A3400Pro_CH2_API.h"
+
+1631678058 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\SACM_A3400Pro_CH2_API.h
+	"SACM_A3400Pro_API.h"
+
+1573174646 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\KeyScan.h
+	<stdint.h>
+
+1599100448 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1609224587 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Scr\GP_Eventor_User.c
+	"GPCM1Fx.h"
+	"GP_Eventor_User.h"
+
+1609201968 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\GP_Eventor_User.h
+	"GP_Eventor.h"
+
+1609123779 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Inc\GP_Eventor.h
+	<stdint.h>
+
+1573628927 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Scr\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1631696104 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Scr\SACM_A3400Pro_CH2_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_Ch2_User.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+	"APP_SwVolumeControl.h"
+
+1596787887 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Resource\\A34_FileMerger.h
+	<stdint.h>
+
+1631693867 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\Scr\SACM_A3400Pro_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+
+1631696557 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\G+IDE\RTE\Device\GPCM1F064A\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631696557 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\G+IDE\RTE\Device\GPCM1F064A\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631695899 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor\SampleCode\A3400Pro\G+IDE\Setup\startup.S
+
+1590031264 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\Application\Source\APP_SwVolumeControl.c
+	"APP_SwVolumeControl.h"
+
+1590031264 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\Application\Include\APP_SwVolumeControl.h
+	<stdint.h>
+
+1621503356 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1627627424 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\CMSIS\Include\cmsis_version.h
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\CMSIS\Include\cmsis_armcc.h
+
+1568864715 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\CMSIS\Include\cmsis_gcc.h
+
+1621503356 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1618194603 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1621503575 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1607326649 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100472 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1627627138 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1604450983 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1607326489 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1599100472 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1621504067 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1599100466 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1602049018 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1618222276 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1621503435 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100472 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1602469088 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1610091664 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1607571679 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1621504207 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1599100466 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1602049018 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1635327306 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\main.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"KeyScan.h"
+
+1631695412 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\SACM_A3400Pro_User.h
+	"SACM_A3400Pro_API.h"
+
+1631695418 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\SACM_A3400Pro_API.h
+
+1631609768 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\SACM_A3400Pro_CH2_User.h
+	"SACM_A3400Pro_CH2_API.h"
+
+1631678058 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\SACM_A3400Pro_CH2_API.h
+	"SACM_A3400Pro_API.h"
+
+1573174646 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\KeyScan.h
+	<stdint.h>
+
+1599100448 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1609224587 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Scr\GP_Eventor_User.c
+	"GPCM1Fx.h"
+	"GP_Eventor_User.h"
+
+1609201968 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\GP_Eventor_User.h
+	"GP_Eventor.h"
+
+1609123779 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Inc\GP_Eventor.h
+	<stdint.h>
+
+1573628927 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Scr\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1636091888 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Scr\SACM_A3400Pro_CH2_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_Ch2_User.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+	"APP_SwVolumeControl.h"
+
+1596787887 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Resource\\A34_FileMerger.h
+	<stdint.h>
+
+1636091792 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\Scr\SACM_A3400Pro_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+
+1631696557 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\G+IDE\RTE\Device\GPCM1F064A\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1599100468 D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631696557 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\G+IDE\RTE\Device\GPCM1F064A\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631695899 source:D:\speech\library\32-bit\SACM_Library\A3400Pro\Example Code\A3400Pro_CH1_CH2_GP_Eventor_20211027\SampleCode\A3400Pro\G+IDE\Setup\startup.S
+
+1640054097 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Application\Source\APP_SwVolumeControl.c
+	"APP_SwVolumeControl.h"
+
+1640054097 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Application\Include\APP_SwVolumeControl.h
+	<stdint.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648621060 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1635327306 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\main.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"KeyScan.h"
+
+1631695412 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_User.h
+	"SACM_A3400Pro_API.h"
+
+1631695418 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_API.h
+
+1631609768 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_CH2_User.h
+	"SACM_A3400Pro_CH2_API.h"
+
+1631678058 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_CH2_API.h
+	"SACM_A3400Pro_API.h"
+
+1573174646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\KeyScan.h
+	<stdint.h>
+
+1599100448 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1609224587 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Scr\GP_Eventor_User.c
+	"GPCM1Fx.h"
+	"GP_Eventor_User.h"
+
+1609201968 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\GP_Eventor_User.h
+	"GP_Eventor.h"
+
+1609123779 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Inc\GP_Eventor.h
+	<stdint.h>
+
+1573628927 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Scr\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1650265861 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Scr\SACM_A3400Pro_CH2_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_Ch2_User.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+	"APP_SwVolumeControl.h"
+
+1596787887 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Resource\\A34_FileMerger.h
+	<stdint.h>
+
+1650265539 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\Scr\SACM_A3400Pro_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+
+1631696557 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\G+IDE\RTE\Device\GPCM1F064A\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631696557 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\G+IDE\RTE\Device\GPCM1F064A\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631695899 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\SampleCode\A34Pro_2CH_WithEvent\G+IDE\Setup\startup.S
+
+1640054097 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\Application\Source\APP_SwVolumeControl.c
+	"APP_SwVolumeControl.h"
+
+1640054097 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\Application\Include\APP_SwVolumeControl.h
+	<stdint.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648621060 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1658987064 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1635327306 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\main.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"KeyScan.h"
+
+1631695412 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_User.h
+	"SACM_A3400Pro_API.h"
+
+1631695418 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_API.h
+
+1631609768 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_CH2_User.h
+	"SACM_A3400Pro_CH2_API.h"
+
+1631678058 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\SACM_A3400Pro_CH2_API.h
+	"SACM_A3400Pro_API.h"
+
+1573174646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\KeyScan.h
+	<stdint.h>
+
+1599100448 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1609224587 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Scr\GP_Eventor_User.c
+	"GPCM1Fx.h"
+	"GP_Eventor_User.h"
+
+1609201968 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\GP_Eventor_User.h
+	"GP_Eventor.h"
+
+1609123779 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Inc\GP_Eventor.h
+	<stdint.h>
+
+1573628927 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Scr\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1650265861 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Scr\SACM_A3400Pro_CH2_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_Ch2_User.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+	"APP_SwVolumeControl.h"
+
+1596787887 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Resource\\A34_FileMerger.h
+	<stdint.h>
+
+1650265539 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\Scr\SACM_A3400Pro_User.c
+	"GPCM1Fx.h"
+	"SACM_A3400Pro_User.h"
+	"SACM_A3400Pro_CH2_User.h"
+	"APP_SwVolumeControl.h"
+	"A34_FileMerger.h"
+	"GP_Eventor_User.h"
+
+1631696557 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\G+IDE\RTE\Device\GPCM1F064A\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631696557 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\G+IDE\RTE\Device\GPCM1F064A\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631695899 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.5\SampleCode\A34Pro_2CH_WithEvent\G+IDE\Setup\startup.S
+

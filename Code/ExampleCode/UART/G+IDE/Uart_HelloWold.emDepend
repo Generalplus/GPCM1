@@ -1,0 +1,1300 @@
+# depslib dependency file v1.0
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174643 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_version.h
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_armcc.h
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_gcc.h
+
+1572936322 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1573174643 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573112195 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1573185375 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+
+1572854134 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1573610315 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1573628265 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174643 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\CMSIS\Include\cmsis_version.h
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\CMSIS\Include\cmsis_armcc.h
+
+1573174642 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\CMSIS\Include\cmsis_gcc.h
+
+1572936322 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1573174643 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573174642 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573699425 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573697150 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\Retarget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1573112195 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1573185375 D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+
+1572854134 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1573610315 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1573697150 source:D:\WorkingFolder\M0 Documents\G+ARM\GPCM1Fx_DFP_\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718105 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\CMSIS\Include\cmsis_version.h
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\CMSIS\Include\cmsis_armcc.h
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\CMSIS\Include\cmsis_gcc.h
+
+1572936322 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1573718105 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1573718107 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573718106 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573718106 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573699425 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573715376 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1573715691 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1573718105 D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1572854134 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1573610315 source:D:\WorkingFolder\GPCM1F\G+ARM\GPCM1Fx_DFP_G+IDE\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174643 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1573174642 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1573174642 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_version.h
+
+1573174642 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1573174642 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_armcc.h
+
+1573174642 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\CMSIS\Include\cmsis_gcc.h
+
+1572936322 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1573174643 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1573174640 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1573174641 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573174641 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573174642 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573788587 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573715376 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1573715691 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1573185375 D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+
+1572854134 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1573610315 source:D:\Leo\Code\GPCM1F\GPCM1Fx_DFP\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1576747620 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1579570039 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\CMSIS\Include\cmsis_version.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\CMSIS\Include\cmsis_armcc.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\CMSIS\Include\cmsis_gcc.h
+
+1572936322 C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1568864714 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1565139298 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1572574822 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1576747568 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139636 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1565139788 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1568775766 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1572574969 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1565139752 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139986 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565139496 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565140068 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1579569707 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1576562444 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1563323894 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1558923170 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622598 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573629357 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622788 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1574903810 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573715376 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1579565381 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1573535763 C:\Generalplus\GPCM1Fx_DFP\0.9.13\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1572854134 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1573610315 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1576747620 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1579585744 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\CMSIS\Include\cmsis_version.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\CMSIS\Include\cmsis_armcc.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\CMSIS\Include\cmsis_gcc.h
+
+1580707709 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1568864714 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1565139298 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1572574822 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1576747568 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139636 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1565139788 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1568775766 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1572574969 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1565139752 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139986 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565139496 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565140068 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1579569707 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1576562444 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1563323894 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1558923170 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1579660676 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573629357 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622788 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1574903810 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573715376 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1579663241 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200211\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1576747620 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1579585744 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"system_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"DAC_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\CMSIS\Include\cmsis_version.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\CMSIS\Include\cmsis_armcc.h
+
+1568864715 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\CMSIS\Include\cmsis_gcc.h
+
+1580707709 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\G+IDE\RTE\RTE_Components.h
+
+1568864714 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1565139298 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1572574822 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1576747568 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139636 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1565139788 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1568775766 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1581236538 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+
+1565139752 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	<stdint.h>
+
+1565139986 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565139496 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1565140068 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1579569707 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1576562444 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1563323894 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1558923170 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1579660676 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1581236959 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622788 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1573622844 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1574903810 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1573715376 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1579663241 C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1580707709 source:C:\Generalplus\GPCM1Fx_DFP\0.9.13_20200217\SampleCode\Uart_HelloWold\G+IDE\Setup\startup.S
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1640075262 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\eFlash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\I2C_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\TimeBase_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1645010661 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\Uart_HelloWorld\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\Uart_HelloWorld\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\Uart_HelloWorld\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\Uart_HelloWorld\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\Uart_HelloWorld\G+IDE\Setup\startup.S
+
+1645068738 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\GPCM_FunctionTestCode\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\GPCM_FunctionTestCode\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\GPCM_FunctionTestCode\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\GPCM_FunctionTestCode\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4\ExampleCode\GPCM_FunctionTestCode\G+IDE\Setup\startup.S
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648172628 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648175817 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\ExampleCode\UART\main.c
+	"GPCM1Fx.h"
+	<stdio.h>
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\ExampleCode\UART\Retarget_G+IDE.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<_ansi.h>
+	<time.h>
+	<sys/errno.h>
+	<sys/stat.h>
+	<rt_misc.h>
+	"GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\ExampleCode\UART\G+IDE\RTE\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\ExampleCode\UART\G+IDE\RTE\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1631002644 source:D:\Kim Area\Company\GP\Kim_Notebook\GPCM1F\Example Code\Pack\1.0.4\1.0.4_Updated\ExampleCode\UART\G+IDE\Setup\startup.S
+

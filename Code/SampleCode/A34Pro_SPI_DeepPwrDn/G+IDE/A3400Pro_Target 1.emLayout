@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/Library/StdDriver/Source" />
+		<Node path="/Sources/Library/StdDriver" />
+		<Node path="/Sources/Library" />
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+		<Node path="/Others/Library/Lib" />
+		<Node path="/Others/Library" />
+		<Node path="/Others/SampleCode" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="..\main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6225" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="..\Scr\GP_Eventor_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="637" topLine="218" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7075" topLine="308" />
+		</Cursor>
+	</File>
+	<File name="RTE\Device\GPCM1F064A_0001\system_GPCM1Fx.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1347" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="..\Scr\KeyScan.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Setup\Target_1.ld" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8098" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="..\Scr\SACM_A3400Pro_User.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6530" topLine="240" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/Library/StdDriver/Source" />
+	<Expand folder="/Sources/Library/StdDriver" />
+	<Expand folder="/Sources/Library" />
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<Expand folder="/Others/Library/Lib" />
+	<Expand folder="/Others/Library" />
+	<Expand folder="/Others/SampleCode" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

@@ -1,0 +1,2 @@
+.DW 0X0001,0X0000;(0X00000001)		Merge file number
+.DW 0X0010,0X0000;(0X00000010)		D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP16\Source Code\CSP16_WiithPSD\LibMaker\Ver 1.0.0\SampleCode\CSP16chn_A1801\Resource\CSP16_WWE\CSP16_WWE_pack.bin

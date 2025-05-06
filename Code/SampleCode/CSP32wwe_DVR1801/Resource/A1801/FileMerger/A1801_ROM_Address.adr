@@ -1,0 +1,9 @@
+.DW 0X0008,0X0000;(0X00000008)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\1_Hello Alexa_wav.a181
+.DW 0X0956,0X0000;(0X00000956)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\2_Power On TV_wav.a181
+.DW 0X12E4,0X0000;(0X000012E4)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\3_Happy new year_wav.a181
+.DW 0X1B0A,0X0000;(0X00001B0A)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\4_Introduce yourself_wav.a181
+.DW 0X2588,0X0000;(0X00002588)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\5_Merry Christmas_wav.a181
+.DW 0X2FB6,0X0000;(0X00002FB6)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\6_Show me the location_wav.a181
+.DW 0X3A84,0X0000;(0X00003A84)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\7_How is the weather_wav.a181
+.DW 0X41E2,0X0000;(0X000041E2)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32wwe_DVR1801\Resource\A1801\8_May the force be with you_wav.a181

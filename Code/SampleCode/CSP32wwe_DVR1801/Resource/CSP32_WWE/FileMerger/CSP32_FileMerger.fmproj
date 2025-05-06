@@ -1,0 +1,45 @@
+<Project Name="FileMerger" Version="1.0.0">
+    <Setting>
+        <Body ChipSeries="GPC3" SystemClock="8000000" />
+    </Setting>
+    <UI>
+        <FileFilter Value="*.adp|*.a16|*.a18|*.a34|*.a36|*.a48|*.a64|*.s20|*.s32|*.s48|*.s53|*.s72|*.s88|*.sp4|*.sp5|*.se4|*.se5|*.AM2|*.AM3|*.AM4|*.AM5|*.pcm|*.ref|*.spp|*.spa|*.drm|*.geo|*.ima|*.wav|*.mp3|*.equ|*.bin" />
+        <Recursive Value="0" />
+        <AllFileType Value="*.adp|*.a16|*.a18|*.a34|*.a36|*.a48|*.a64|*.s20|*.s32|*.s48|*.s53|*.s72|*.s88|*.sp4|*.sp5|*.se4|*.se5|*.AM2|*.AM3|*.AM4|*.AM5|*.pcm|*.ref|*.spp|*.spa|*.drm|*.geo|*.ima|*.wav|*.mp3|*.equ|*.bin|*.*" />
+        <BinVersion Value="1" />
+        <SourceFolder Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE" />
+        <BinFile Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\FileMerger\CSP32_FileMerger.bin" />
+        <IncFile Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\FileMerger\CSP32_FileMerger.inc" />
+        <HFile Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\FileMerger\CSP32_FileMerger.h" />
+        <EnableUserBinFile Value="0" />
+        <UserBinFile Source="C:\Program Files (x86)\Generalplus\G+ Gadget 1.1.4.11\UserData.bin" />
+        <RecordFile Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\FileMerger\CSP32_ROM_Address.adr" />
+        <BodyFile Source="./PreLoadValueBodyMapping.ini" />
+        <ByteOrder Value="0" />
+        <Flag64Bit Value="0" />
+        <ResourceNo Value="1" />
+        <AddressOffset Value="0" />
+        <Add8BytesHead_Version1 Value="0" />
+        <Add8BytesHead_Version2 Value="0" />
+        <Add8BytesHead Value="0" />
+        <ReservedBytes Value="16" />
+        <AddressBase Value="1" />
+        <MergeAddressTable Value="1" />
+        <FillData Value="0xFF" />
+        <BinFileSize Value="Autosize" />
+        <CheckSumAlgorithm Value="1" />
+        <GroupNameFormat Value="%N" />
+        <GroupAddrFormat Value="%N_Addr" />
+        <FileNameFormat Value="%n" />
+        <FileAddrFormat Value="%n_Addr" />
+        <OutputAddr Value="1" />
+        <OutputIndex Value="1" />
+        <Reserved32ByteHead Value=" 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" />
+    </UI>
+    <Resource>
+        <ResGroup Name="Group_Table" Type="0" />
+        <File Name="CSP32_WWE_Adapt_pack_withRej.bin" Source="D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\CSP32_WWE_Adapt_pack_withRej.bin" GroupIndex="0" />
+    </Resource>
+    <EquationTable />
+    <CustomFormat />
+</Project>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/Library" />
+		<Node path="/Sources/SampleCode/A1801_2CH_WithEvent/Src" />
+		<Node path="/Sources/SampleCode/A1801_2CH_WithEvent" />
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+		<Node path="/Others/Library/Lib" />
+		<Node path="/Others/Library" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="Setup\GPCM1F064A.ld" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7091" topLine="198" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_A1801_CH2_User.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8592" topLine="230" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="727" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\I2C_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="958" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_A1801_User.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8971" topLine="354" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2037" topLine="71" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="948" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\GPIO_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="726" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1056" topLine="0" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/Library" />
+	<Expand folder="/Sources/SampleCode/A1801_2CH_WithEvent/Src" />
+	<Expand folder="/Sources/SampleCode/A1801_2CH_WithEvent" />
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<Expand folder="/Others/Library/Lib" />
+	<Expand folder="/Others/Library" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

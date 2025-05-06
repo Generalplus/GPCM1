@@ -1,0 +1,7 @@
+.DW 0X0006,0X0000;(0X00000006)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\1_Killing Me Softly.mp3
+.DW 0X46FF,0X0009;(0X000946FF)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\2_Let's Start From Here.mp3
+.DW 0X656D,0X0019;(0X0019656D)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\3_clock.mp3
+.DW 0X8ADD,0X0030;(0X00308ADD)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\4_worthit.mp3
+.DW 0X80B3,0X0037;(0X003780B3)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\5_MerryChristmas.mp3
+.DW 0X7F65,0X0042;(0X00427F65)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\MP3\Resource\MP3\6_Pseudo.mp3

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Device" />
+		<Node path="/Driver" />
+		<Node path="/Others" />
+		<Node path="/Peripheral" />
+		<Node path="/User" />
+	</ExpandedNodes>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1696" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1889" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="751" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\eFlash_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="728" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\MAC_GPCM1Fx.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4557" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="RTE\system_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1528" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\WDT_GPCM1Fx.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DMA_GPCM1Fx.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1094" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1139" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="Setup\MAC.ld" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1496" topLine="200" />
+		</Cursor>
+	</File>
+	<File name="Doc\README.txt" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<Expand folder="/Device" />
+	<Expand folder="/Driver" />
+	<Expand folder="/Others" />
+	<Expand folder="/Peripheral" />
+	<Expand folder="/User" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

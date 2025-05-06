@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/Library/Application" />
+		<Node path="/Sources/Library/StdDriver/Source" />
+		<Node path="/Sources/Library/StdDriver" />
+		<Node path="/Sources/Library" />
+		<Node path="/Sources/SampleCode/A1801/G+IDE/RTE" />
+		<Node path="/Sources/SampleCode/A1801/G+IDE/Setup" />
+		<Node path="/Sources/SampleCode/A1801/G+IDE" />
+		<Node path="/Sources/SampleCode/A1801/Resource" />
+		<Node path="/Sources/SampleCode/A1801/Src" />
+		<Node path="/Sources/SampleCode/A1801" />
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+		<Node path="/Others/Library/Lib" />
+		<Node path="/Others/Library" />
+		<Node path="/Others/SampleCode/A1801/G+IDE/Setup" />
+		<Node path="/Others/SampleCode/A1801/G+IDE" />
+		<Node path="/Others/SampleCode/A1801/Resource/Song/FileMerger" />
+		<Node path="/Others/SampleCode/A1801/Resource/Song" />
+		<Node path="/Others/SampleCode/A1801/Resource" />
+		<Node path="/Others/SampleCode/A1801" />
+		<Node path="/Others/SampleCode" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="..\Src\SACM_A1801_User.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8170" topLine="408" />
+		</Cursor>
+	</File>
+	<File name="Setup\GPCM1F064A.ld" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2507" topLine="225" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\Application\Source\APP_SwVolumeControl.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2935" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\SPIFC_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1209" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2481" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6826" topLine="188" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1454" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="..\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1754" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="RTE\system_GPCM1Fx.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1346" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\TimeBase_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1004" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\I2C_GPCM1Fx.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3685" topLine="135" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DMA_GPCM1Fx.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4695" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="..\Src\KeyScan.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1943" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\WDT_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1558" topLine="46" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/Library/Application" />
+	<Expand folder="/Sources/Library/StdDriver/Source" />
+	<Expand folder="/Sources/Library/StdDriver" />
+	<Expand folder="/Sources/Library" />
+	<Expand folder="/Sources/SampleCode/A1801/G+IDE/RTE" />
+	<Expand folder="/Sources/SampleCode/A1801/G+IDE/Setup" />
+	<Expand folder="/Sources/SampleCode/A1801/G+IDE" />
+	<Expand folder="/Sources/SampleCode/A1801/Resource" />
+	<Expand folder="/Sources/SampleCode/A1801/Src" />
+	<Expand folder="/Sources/SampleCode/A1801" />
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<Expand folder="/Others/Library/Lib" />
+	<Expand folder="/Others/Library" />
+	<Expand folder="/Others/SampleCode/A1801/G+IDE/Setup" />
+	<Expand folder="/Others/SampleCode/A1801/G+IDE" />
+	<Expand folder="/Others/SampleCode/A1801/Resource/Song/FileMerger" />
+	<Expand folder="/Others/SampleCode/A1801/Resource/Song" />
+	<Expand folder="/Others/SampleCode/A1801/Resource" />
+	<Expand folder="/Others/SampleCode/A1801" />
+	<Expand folder="/Others/SampleCode" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

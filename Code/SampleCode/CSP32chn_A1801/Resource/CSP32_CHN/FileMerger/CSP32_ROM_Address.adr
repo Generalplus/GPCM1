@@ -1,0 +1,2 @@
+.DW 0X0001,0X0000;(0X00000001)		Merge file number
+.DW 0X0010,0X0000;(0X00000010)		C:\Generalplus\GPCM1Fx_DFP\0.9.13\SampleCode\CSP32chn_A1801\Resource\CSP32_CHN\CSP32_CHN_Adapt_pack_withRej.bin

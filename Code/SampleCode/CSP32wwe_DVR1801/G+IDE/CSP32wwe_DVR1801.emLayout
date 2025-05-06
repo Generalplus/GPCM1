@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Others/Library" />
+		<Node path="/Others/SampleCode/CSP32wwe_DVR1801/G+IDE/Setup" />
+		<Node path="/Others/SampleCode/CSP32wwe_DVR1801/G+IDE" />
+		<Node path="/Others/SampleCode/CSP32wwe_DVR1801" />
+		<Node path="/Others/SampleCode" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="..\..\..\Library\StdDriver\Source\SARADC_GPCM1Fx.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4306" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1056" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_DVR1801_User.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8125" topLine="273" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="373" topLine="96" />
+		</Cursor>
+	</File>
+	<File name="Setup\GPCM1F064A_0001.ld" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7918" topLine="223" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1087" topLine="336" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\MAC_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<Expand folder="/Others/Library" />
+	<Expand folder="/Others/SampleCode/CSP32wwe_DVR1801/G+IDE/Setup" />
+	<Expand folder="/Others/SampleCode/CSP32wwe_DVR1801/G+IDE" />
+	<Expand folder="/Others/SampleCode/CSP32wwe_DVR1801" />
+	<Expand folder="/Others/SampleCode" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

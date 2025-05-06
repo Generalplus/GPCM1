@@ -1,0 +1,4 @@
+.DW 0X0003,0X0000;(0X00000003)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		C:\Generalplus\GPCM1Fx_DFP\1.0.3\SampleCode\A1801_WithEvent\Resource\Song\1_2020best32_gea.a181
+.DW 0XCCFA,0X0000;(0X0000CCFA)		C:\Generalplus\GPCM1Fx_DFP\1.0.3\SampleCode\A1801_WithEvent\Resource\Song\2_youarethereason2_gea.a181
+.DW 0XEC08,0X0001;(0X0001EC08)		C:\Generalplus\GPCM1Fx_DFP\1.0.3\SampleCode\A1801_WithEvent\Resource\Song\3_pour_gea.a181

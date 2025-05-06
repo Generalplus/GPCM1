@@ -1,0 +1,12 @@
+.DW 0X000B,0X0000;(0X0000000B)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\track18a_wav.a181
+.DW 0X114E,0X0000;(0X0000114E)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\track03b_wav.a181
+.DW 0X27FC,0X0000;(0X000027FC)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\englishstorys_wav.a181
+.DW 0X737A,0X0000;(0X0000737A)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\englishstory1_wav.a181
+.DW 0X9450,0X0000;(0X00009450)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\eng7_wav.a181
+.DW 0XAB76,0X0000;(0X0000AB76)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\eng5_wav.a181
+.DW 0XCD64,0X0000;(0X0000CD64)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\eng5b_wav.a181
+.DW 0XE372,0X0000;(0X0000E372)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\eng4b_wav.a181
+.DW 0XF728,0X0000;(0X0000F728)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\13_wav.a181
+.DW 0X1EDE,0X0001;(0X00011EDE)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\01c_wav.a181
+.DW 0X2DE4,0X0001;(0X00012DE4)		D:\GP Product\GPCM1F\Code\Voice Changer\Source Code\LibMaker\1.0.2\Ver_0_8\SampleCode\DVR1801_VC3\Resource\Song\01b_wav.a181

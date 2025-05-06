@@ -1,0 +1,2 @@
+.DW 0X0001,0X0000;(0X00000001)		Merge file number
+.DW 0X0010,0X0000;(0X00000010)		D:\Allen GP Data\GP Product\GPCM1F\Code\Voice Recognition\Cyberon_CSP32\Code\Example code\Demo code for Customer\20191015_CSP32_ChangeColor_Vtech\Code\CSP32_40cmd\Ver 0\SampleCode\CSP32\Resource\CSP32_WWE\CSP32_WWE_Adapt_pack_withRej.bin

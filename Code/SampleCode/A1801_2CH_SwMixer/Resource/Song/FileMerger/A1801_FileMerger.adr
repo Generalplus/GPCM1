@@ -1,0 +1,6 @@
+.DW 0X0005,0X0000;(0X00000005)		Merge file number
+.DW 0X0040,0X0000;(0X00000040)		C:\Generalplus\GPCM1Fx_DFP\0.9.9.2\SampleCode\DVR1801\Resource\Song\toystory4.a18
+.DW 0XBDCE,0X0000;(0X0000BDCE)		C:\Generalplus\GPCM1Fx_DFP\0.9.9.2\SampleCode\DVR1801\Resource\Song\speechless2.a18
+.DW 0X3A34,0X0001;(0X00013A34)		C:\Generalplus\GPCM1Fx_DFP\0.9.9.2\SampleCode\DVR1801\Resource\Song\hood.a18
+.DW 0XBCB2,0X0001;(0X0001BCB2)		C:\Generalplus\GPCM1Fx_DFP\0.9.9.2\SampleCode\DVR1801\Resource\Song\hakunamatata.a18
+.DW 0X8620,0X0002;(0X00028620)		C:\Generalplus\GPCM1Fx_DFP\0.9.9.2\SampleCode\DVR1801\Resource\Song\arobian.a18

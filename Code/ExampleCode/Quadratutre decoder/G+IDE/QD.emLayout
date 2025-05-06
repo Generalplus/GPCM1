@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/ExampleCode/Quadratutre decoder/G+IDE/Doc" />
+		<Node path="/ExampleCode/Quadratutre decoder/G+IDE/RTE" />
+		<Node path="/ExampleCode/Quadratutre decoder/G+IDE/Setup" />
+		<Node path="/ExampleCode/Quadratutre decoder/G+IDE" />
+		<Node path="/ExampleCode/Quadratutre decoder/Src" />
+		<Node path="/ExampleCode/Quadratutre decoder" />
+		<Node path="/ExampleCode" />
+		<Node path="/Library/StdDriver/Source" />
+		<Node path="/Library/StdDriver" />
+		<Node path="/Library" />
+	</ExpandedNodes>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2074" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="724" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DMA_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="723" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7917" topLine="271" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1184" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5884" topLine="155" />
+		</Cursor>
+	</File>
+	<File name="..\Src\KeyScan.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2268" topLine="65" />
+		</Cursor>
+	</File>
+	<Expand folder="/ExampleCode/Quadratutre decoder/G+IDE/Doc" />
+	<Expand folder="/ExampleCode/Quadratutre decoder/G+IDE/RTE" />
+	<Expand folder="/ExampleCode/Quadratutre decoder/G+IDE/Setup" />
+	<Expand folder="/ExampleCode/Quadratutre decoder/G+IDE" />
+	<Expand folder="/ExampleCode/Quadratutre decoder/Src" />
+	<Expand folder="/ExampleCode/Quadratutre decoder" />
+	<Expand folder="/ExampleCode" />
+	<Expand folder="/Library/StdDriver/Source" />
+	<Expand folder="/Library/StdDriver" />
+	<Expand folder="/Library" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints>
+				<item bitsize="4915247" BreakpointType="0" filename="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" filenameAsPassed="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" line="283" index="2" temporary="0" enabled="1" active="1" useIgnoreCount="0" ignoreCount="0" wantsCondition="0" condition="" func="" address="0" alreadySet="1" lineText="" breakAddress="0x00000a88" breakOnRead="0" breakOnWrite="1" hardware="0" />
+				<item bitsize="4915247" BreakpointType="0" filename="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" filenameAsPassed="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" line="293" index="3" temporary="0" enabled="1" active="1" useIgnoreCount="0" ignoreCount="0" wantsCondition="0" condition="" func="" address="0" alreadySet="1" lineText="" breakAddress="0x00000ab0" breakOnRead="0" breakOnWrite="1" hardware="0" />
+				<item bitsize="4915247" BreakpointType="0" filename="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" filenameAsPassed="..\..\..\Library\StdDriver\Source\QD_GPCM1Fx.c" line="298" index="4" temporary="0" enabled="1" active="1" useIgnoreCount="0" ignoreCount="0" wantsCondition="0" condition="" func="" address="0" alreadySet="1" lineText="" breakAddress="0x00000ac4" breakOnRead="0" breakOnWrite="1" hardware="0" />
+			</breakpoints>
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

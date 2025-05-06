@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Debug" />
+	<ExpandedNodes>
+		<Node path="/Sources/Library/Application" />
+		<Node path="/Sources/Library" />
+		<Node path="/Sources/SampleCode/A34Pro_4CH_SwMixer/Src" />
+		<Node path="/Sources/SampleCode/A34Pro_4CH_SwMixer" />
+		<Node path="/Sources/SampleCode" />
+		<Node path="/Sources" />
+		<Node path="/Others/Library/Lib" />
+		<Node path="/Others/Library" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer/G+IDE/Setup" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer/G+IDE" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource/Song/FileMerger" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource/Song" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource" />
+		<Node path="/Others/SampleCode/A34Pro_4CH_SwMixer" />
+		<Node path="/Others/SampleCode" />
+		<Node path="/Others" />
+	</ExpandedNodes>
+	<File name="..\Src\SACM_A3400Pro_CH2_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4146" topLine="172" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DMA_GPCM1Fx.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1094" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="Setup\GPCM1F064A.ld" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3488" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_A3400Pro_CH3_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4054" topLine="168" />
+		</Cursor>
+	</File>
+	<File name="..\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1832" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_A3400Pro_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3617" topLine="145" />
+		</Cursor>
+	</File>
+	<File name="Setup\startup.S" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="948" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="RTE\Configuration_Wizard_GPCM1Fx.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1056" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\Src\GP_Eventor_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="455" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\Src\KeyScan.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2670" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_MIXER_Ch0_API.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4429" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\GPIO_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="726" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\I2C_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="958" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_MIXER_Ch0_User.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12854" topLine="425" />
+		</Cursor>
+	</File>
+	<File name="..\Src\SACM_A3400Pro_CH4_User.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4066" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\Library\StdDriver\Source\DAC_GPCM1Fx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="727" topLine="0" />
+		</Cursor>
+	</File>
+	<Expand folder="/Sources/Library/Application" />
+	<Expand folder="/Sources/Library" />
+	<Expand folder="/Sources/SampleCode/A34Pro_4CH_SwMixer/Src" />
+	<Expand folder="/Sources/SampleCode/A34Pro_4CH_SwMixer" />
+	<Expand folder="/Sources/SampleCode" />
+	<Expand folder="/Sources" />
+	<Expand folder="/Others/Library/Lib" />
+	<Expand folder="/Others/Library" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer/G+IDE/Setup" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer/G+IDE" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource/Song/FileMerger" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource/Song" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer/Resource" />
+	<Expand folder="/Others/SampleCode/A34Pro_4CH_SwMixer" />
+	<Expand folder="/Others/SampleCode" />
+	<Expand folder="/Others" />
+	<UserSettings>
+		<bookmark>
+			<bookmarks />
+		</bookmark>
+		<debugger>
+			<breakpoints />
+		</debugger>
+	</UserSettings>
+</emIDE_layout_file>

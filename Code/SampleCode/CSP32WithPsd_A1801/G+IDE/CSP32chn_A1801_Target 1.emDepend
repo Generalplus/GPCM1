@@ -1,0 +1,625 @@
+# depslib dependency file v1.0
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1640075262 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\eFlash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\I2C_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\TimeBase_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648806940 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\main.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"CSP32_User.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+	"glibc_wrapper.h"
+
+1639365727 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_User.h
+	"SACM_A1801_API.h"
+
+1634273122 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_API.h
+	<stdint.h>
+
+1648704689 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_User.h
+	<stdint.h>
+	"CSP32_API.h"
+
+1648704763 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_API.h
+	<stdint.h>
+	"CSpotterSDKApi.h"
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi.h
+	<stdint.h>
+	"CSpotterSDKApi_Const.h"
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi_Const.h
+
+1648029575 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDTrainApi.h
+	"CSpotterSDKApi.h"
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\KeyScan.h
+	<stdint.h>
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\glibc_wrapper.h
+	<string.h>
+
+1631002634 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1648721547 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\CSP32_User.c
+	"GPCM1Fx.h"
+	"CSP32_User.h"
+	"CSP32_FileMerger.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\CSP32_CHN\FileMerger\CSP32_FileMerger.h
+	<stdint.h>
+
+1631002660 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1639365760 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\SACM_A1801_User.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"A1800_FileMerger.h"
+
+1631002634 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\A1800\FileMerger\A1800_FileMerger.h
+	<stdint.h>
+
+1631002634 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631002634 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1648804214 source:D:\speech\library\32-bit\Voice Recognition\Cyberon_CSP32\Example Code\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\Setup\startup.S
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1640075262 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\eFlash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\I2C_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\TimeBase_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648806940 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\main.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"CSP32_User.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+	"glibc_wrapper.h"
+
+1639365727 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_User.h
+	"SACM_A1801_API.h"
+
+1634273122 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_API.h
+	<stdint.h>
+
+1649242393 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_User.h
+	<stdint.h>
+	"CSP32_API.h"
+
+1648807505 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_API.h
+	<stdint.h>
+	"CSpotterSDKApi.h"
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi.h
+	<stdint.h>
+	"CSpotterSDKApi_Const.h"
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi_Const.h
+
+1648029575 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDTrainApi.h
+	"CSpotterSDKApi.h"
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\KeyScan.h
+	<stdint.h>
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Inc\glibc_wrapper.h
+	<string.h>
+
+1631002634 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1649299479 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Src\CSP32_User.c
+	"GPCM1Fx.h"
+	"CSP32_User.h"
+	"CSP32_FileMerger.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Resource\CSP32_CHN\FileMerger\CSP32_FileMerger.h
+	<stdint.h>
+
+1631002660 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Src\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1639365760 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Src\SACM_A1801_User.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"A1800_FileMerger.h"
+
+1631002634 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\Resource\A1800\FileMerger\A1800_FileMerger.h
+	<stdint.h>
+
+1631002634 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631002634 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1648804214 source:D:\00_work\2022\CSP32WithPsd_A1801_V1.0.3_Rej\SampleCode\CSP32chn_A1801\G+IDE\Setup\startup.S
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1640075262 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\GPCM1Fx.h
+	<core_cm0.h>
+	<stdint.h>
+	<string.h>
+	"RTE_Components.h"
+	"DAC_GPCM1Fx.h"
+	"DMA_GPCM1Fx.h"
+	"DSADC_GPCM1Fx.h"
+	"eFlash_GPCM1Fx.h"
+	"GPIO_GPCM1Fx.h"
+	"I2C_GPCM1Fx.h"
+	"MAC_GPCM1Fx.h"
+	"SARADC_GPCM1Fx.h"
+	"SPI_FLASH_GPCM1Fx.h"
+	"SPIFC_GPCM1Fx.h"
+	"SYS_GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+	"TimeBase_GPCM1Fx.h"
+	"Timer_GPCM1Fx.h"
+	"Uart_GPCM1Fx.h"
+	"WDT_GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\core_cm0.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_version.h
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_armcc.h
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\CMSIS\Include\cmsis_gcc.h
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DAC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DMA_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\DSADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\eFlash_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\GPIO_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\I2C_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\MAC_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SARADC_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SPIFC_GPCM1Fx.h
+	<stdint.h>
+	<stdbool.h>
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\SYS_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\system_GPCM1Fx.h
+	<stdint.h>
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\TimeBase_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\Timer_GPCM1Fx.h
+	"GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\Uart_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Include\WDT_GPCM1Fx.h
+	<stdint.h>
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DMA_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\DSADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\eFlash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\GPIO_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\I2C_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\MAC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SARADC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SPI_Flash_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SPIFC_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\SYS_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\TimeBase_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\Timer_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1631002636 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\Uart_GPCM1Fx.c
+	"GPCM1Fx.h"
+	<math.h>
+
+1631002646 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\StdDriver\Source\WDT_GPCM1Fx.c
+	"GPCM1Fx.h"
+
+1648806940 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\main.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"CSP32_User.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+	"glibc_wrapper.h"
+
+1639365727 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_User.h
+	"SACM_A1801_API.h"
+
+1634273122 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\A1801\SACM_A1801_API.h
+	<stdint.h>
+
+1650252823 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_User.h
+	<stdint.h>
+	"CSP32_API.h"
+
+1648807505 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSP32_API.h
+	<stdint.h>
+	"CSpotterSDKApi.h"
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi.h
+	<stdint.h>
+	"CSpotterSDKApi_Const.h"
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDKApi_Const.h
+
+1648029575 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\CSP32\CSpotterSDTrainApi.h
+	"CSpotterSDKApi.h"
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\KeyScan.h
+	<stdint.h>
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Inc\glibc_wrapper.h
+	<string.h>
+
+1631002634 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\SPIFC_TimingFineTuneBin_0x5A810A3C.c
+
+1650252776 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\CSP32_User.c
+	"GPCM1Fx.h"
+	"CSP32_User.h"
+	"CSP32_FileMerger.h"
+	"CSpotterSDTrainApi.h"
+	"KeyScan.h"
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\CSP32_CHN\FileMerger\CSP32_FileMerger.h
+	<stdint.h>
+
+1631002660 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\KeyScan.c
+	"GPCM1Fx.h"
+	"KeyScan.h"
+
+1639365760 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Src\SACM_A1801_User.c
+	"GPCM1Fx.h"
+	"SACM_A1801_User.h"
+	"A1800_FileMerger.h"
+
+1631002634 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\Resource\A1800\FileMerger\A1800_FileMerger.h
+	<stdint.h>
+
+1631002634 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\Configuration_Wizard_GPCM1Fx.c
+	"Configuration_Wizard_GPCM1Fx.h"
+
+1631002636 D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\Library\Device\GPCM1F064A\Include\Configuration_Wizard_GPCM1Fx.h
+	<stdint.h>
+	"RTE_Components.h"
+
+1631002634 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\RTE\Device\GPCM1F064A_0001\system_GPCM1Fx.c
+	"GPCM1Fx.h"
+	"system_GPCM1Fx.h"
+
+1648804214 source:D:\00_work\2022\IL_VR\CSP32WithPsd_A1801_V1.0.3\SampleCode\CSP32chn_A1801\G+IDE\Setup\startup.S
+
